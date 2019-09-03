@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Test5",
+"productVersion": "0.1",
+"dataUrl": "Bin03.data.unityweb",
+"wasmCodeUrl": "Bin03.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bin03.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
